@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Data files (keep raw, ignore processed outputs)
+data/processed/
+outputs/
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
